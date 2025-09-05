@@ -1,3 +1,5 @@
+# Triggering CI workflow test
+
 # week07/backend/product_service/app/main.py
 
 import logging
