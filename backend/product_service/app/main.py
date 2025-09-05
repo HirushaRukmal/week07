@@ -1,4 +1,4 @@
-# Triggering CI workflow test
+# Triggering CI workflow testing
 
 # week07/backend/product_service/app/main.py
 
